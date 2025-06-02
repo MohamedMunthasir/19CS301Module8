@@ -1,6 +1,6 @@
 # 19CS301-Module8
-### Name - S.Y.Anuranjana
-### Register No - 212222050006
+### Name - Mohamed Munthasir Y
+### Register No - 212222220025
 
 # ExNo: 8.1 HackerRankChallenges
 ### Aim: To Write a python program to find the amount paid by Vimla, If 5% discount was given and 2% CST was paid.Vimla purchased a microwave oven with the price Rs. 25,000. Finalamount = amount +cst_amount - discount_amountmax_speed(),change_gear() override the same methods of base class  using method overriding
